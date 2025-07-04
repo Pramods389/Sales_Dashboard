@@ -11,26 +11,26 @@ Designed and developed an interactive Excel dashboard to analyze and visualize b
 ## Key Features:
 - Data Cleaning & Preparation:
 1. Formatted raw data into Excel tables.
-- Categorized customer segments by age.
+2. Categorized customer segments by age.
 
 - Pivot Tables & Charts:
-- Created Pivot Tables to summarize.
-- Revenue and Profit by Country.
-Monthly Sales Trends.
-Sales by Product Category.
-Customer Segments (Age, Age Bracket)
+1. Created Pivot Tables to summarize.
+2. Revenue and Profit by Country.
+3. Monthly Sales Trends.
+4. Sales by Product Category.
+5. Customer Segments (Age, Age Bracket)
 
 - Interactive Slicers:
-- Enabled drill-down by Country, Product Category, Year, and Age Group.
+1. Enabled drill-down by Country, Product Category, Year, and Age Group.
 
 - Visualization Techniques:
-- Line, Bar, Column, and Pie Charts for clear visual storytelling.
-- Clean layout with branded colors and formatting.
+1. Line, Bar, Column, and Pie Charts for clear visual storytelling.
+2. Clean layout with branded colors and formatting.
 
 - Tools & Skills Used:
-- Microsoft Excel (Formulas, Pivot Tables, Pivot Charts, Slicers).
-- Data Cleaning & Transformation.
-- Data Visualization & Dashboard Design.
+1. Microsoft Excel (Formulas, Pivot Tables, Pivot Charts, Slicers).
+2. Data Cleaning & Transformation.
+3. Data Visualization & Dashboard Design.
 
 ## Outcome:
 The dashboard enables business stakeholders to quickly identify top-performing products, regions, and customer demographics, supporting data-driven sales and marketing decisions.
