@@ -1,5 +1,5 @@
 ## Sales_Dashboard
-Designed and developed an interactive Excel dashboard to analyze and visualize bike sales data across multiple dimensions using the Europe Bike Sales dataset (Kaggle). The dashboard provides actionable insights for sales, profit, and customer demographics through dynamic charts, KPIs, and slicers.
+I designed and developed an interactive Excel dashboard to analyze and visualize bike sales data with various information using the Europe Bike Sales dataset (Kaggle). The dashboard provides insights for sales, profit, and customer demographics through dynamic charts, and slicers.
 
 ## Business Requirements:
 - What is the monthly trend of revenue?
@@ -18,7 +18,8 @@ Designed and developed an interactive Excel dashboard to analyze and visualize b
 2. Revenue and Profit by Country.
 3. Monthly Sales Trends.
 4. Sales by Product Category.
-5. Customer Segments (Age, Age Bracket)
+5. Number of orders per product category.
+6. Customer Segments (Age, Age Bracket)
 
 - Interactive Slicers:
 1. Enabled drill-down by Country, Product Category, Year, and Age Group.
