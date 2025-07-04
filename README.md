@@ -9,8 +9,8 @@ Designed and developed an interactive Excel dashboard to analyze and visualize b
 - What is the most sold product category?
 
 ## Key Features:
--- Data Cleaning & Preparation:
-- Formatted raw data into Excel tables.
+- Data Cleaning & Preparation:
+1. Formatted raw data into Excel tables.
 - Categorized customer segments by age.
 
 - Pivot Tables & Charts:
