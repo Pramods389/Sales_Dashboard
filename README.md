@@ -36,4 +36,4 @@ Designed and developed an interactive Excel dashboard to analyze and visualize b
 The dashboard enables business stakeholders to quickly identify top-performing products, regions, and customer demographics, supporting data-driven sales and marketing decisions.
 
 ## Preview:
-![Dashboard Preview](https://github.com/Pramods389/Survey_Report/blob/main/Dashboard%20Preview.png)
+![Dashboard Preview](https://github.com/Pramods389/Sales_Dashboard/blob/main/Sales_Dashboard.png)
